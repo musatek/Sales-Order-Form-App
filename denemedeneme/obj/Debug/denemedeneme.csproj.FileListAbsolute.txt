@@ -1,0 +1,12 @@
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.csprojResolveAssemblyReference.cache
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.Form1.resources
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.Properties.Resources.resources
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.csproj.GenerateResource.cache
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.csproj.CoreCompileInputs.cache
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\bin\Debug\denemedeneme.exe.config
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\bin\Debug\denemedeneme.exe
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\bin\Debug\denemedeneme.pdb
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.exe
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.pdb
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.ProductsForm.resources
+C:\Users\Oem\source\repos\denemedeneme\denemedeneme\obj\Debug\denemedeneme.OrdersForm.resources
